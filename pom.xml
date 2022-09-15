@@ -8,7 +8,7 @@
 	<name>Projeto JPA 2</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>5.3.22</spring.version>
+		<spring.version>5.3.23</spring.version>
 	</properties>
 	<dependencies>
 		<dependency>
