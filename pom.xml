@@ -45,7 +45,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-ehcache</artifactId>
-			<version>5.6.11.Final</version>
+			<version>5.6.12.Final</version>
 		</dependency>
 		<!-- EHCache uses slf4j for logging -->
 		<dependency>
@@ -77,7 +77,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
-			<version>5.6.11.Final</version>
+			<version>5.6.12.Final</version>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
